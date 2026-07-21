@@ -1,3 +1,6 @@
-Hi, changed to green and 1.6mm for 24hr build time
+Features:
+- NFC enabled
+- SMD LED
+- QR-Code
 ![Alt Text](pcb.png)
 ![Alt Text](pcb-sch.png)
